@@ -637,6 +637,7 @@ print('data frame summary, use as: cdata <- summarySE(dtf, measurevar="Value", g
 print('moving average using zoo library, use as: rollmean(x,k) or rollmedian(x,k), x as vecor value, k as moving window')
 print('median by row, use as rowMedians(x), colMedians, rowMeans(x), colMeans()')
 print('scatterplot with correlation values: e.g. ggpairs(iris[,1:4])')
+print('use as source_https("https://raw.githubusercontent.com/biogis/CC/master/template.r")')
 
 # ########################################################################
 # 
